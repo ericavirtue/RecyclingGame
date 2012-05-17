@@ -47,27 +47,48 @@
       <div class="hero-unit">
         <h1>The Recycling Game</h1>
         <p>Drag and drop the recyclable items into the Recycling Bin. Watch out! If you drop a non-recyclable item into the bin, there will be trouble!</p>
-      </div>
+      </div> <!-- /hero unit -->
       </div> <!-- /container -->
  
         <!--Draggable Items-->
-        <div id="wrapper">
+        <div class="row">
         
         <!--  News-->       
+          <div class="span2">
           <div class="makeMeDraggable recyclable"> 
           		<img src="assets/img/news.png"/>
           </div>
+          </div> <!-- /span -->
         <!-- Apple-->
+        <div class="span2">
         <div class="makeMeDraggable"> 
         		<img src="assets/img/apple.png"/>
         </div>
-        </div> <!-- /wrapper -->
+        </div> <!-- /span -->
+        <!-- Egg-->
+        <div class="span2">
+        <div class="makeMeDraggable"> 
+        		<img src="assets/img/brokenegg.png" width="150px"/>
+        </div>
+        </div> <!-- /span -->
+        <!--  Water-->    
+        <div class="span2">   
+          <div class="makeMeDraggable recyclable"> 
+          		<img src="assets/img/water.png" width="150px"/>
+          </div>
+          </div> <!-- /span -->
+        
+        </div> <!-- /row -->
           
         <!--Droppable Items-->
         <!--Recycling Bin-->
+        <div class="row">
+        <div class="span12">
         <div id="makeMeDroppable"> 
           	<img src="assets/img/recycling.jpg"/> 
      </div>
+     </div> <!-- /span -->
+     </div> <!-- /row-->
    
 </body>
 </html>
