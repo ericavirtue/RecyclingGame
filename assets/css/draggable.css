@@ -1,0 +1,4 @@
+/*DRAG AND DROP*/
+.makeMeDraggable { float: left; width: auto; height: auto; background: none; margin:  10px; }
+#makeMeDroppable { float: right; width: auto; height: auto; background: none; margin:  10px; }
+#wrapper {margin: 0 auto; width: auto height: auto;}

@@ -1,0 +1,5 @@
+.DS_Store
+*.esproj/
+*.esproj/project.espressostorage
+*.esproj/user.pope.espressostorage
+

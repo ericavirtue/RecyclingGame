@@ -1,0 +1,12 @@
+== The Recycling Game
+
+= What it is:
+* A drag and drop game to learn about recycling.
+
+= Why I made it:
+* I made the Recycling Game to learn and practice JQuery.
+
+= What you can do with it:
+* Add new features.
+* Use it for your own learning project.
+* Make improvements to my code and organization.
